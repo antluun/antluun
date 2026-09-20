@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+  
+# Hi there 👋
+## I'm Anthony, nice to meet you 😄
+
+</div>
+
+- 🔭 I’m currently looking for jobsss....
+- 🤖 I’m currently getting to know AI ✨✨
 
 <!--
 **antluun/antluun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
